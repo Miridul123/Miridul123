@@ -1,7 +1,7 @@
   # 👋 Hi, I’m @Miridul123
 
   ## Data Analyst
- I’m currently learning  
+ I’m currently Exploring the expertise
  ##### Python, Power Bi, MySql, Advanced Excel
 - ⚡ Fun fact An electrical Engineering Turned IT Professional
 
